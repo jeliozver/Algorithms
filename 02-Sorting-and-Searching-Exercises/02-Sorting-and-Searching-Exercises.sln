@@ -29,6 +29,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P12-Inversion-Count", "P12-
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P13-Words", "P13-Words\P13-Words.csproj", "{68E263D8-C165-4228-81B1-B3B4E5542209}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "P14-Needles", "P14-Needles\P14-Needles.csproj", "{83E489B0-3628-4AE9-9D08-CDAEC086156A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -87,6 +89,10 @@ Global
 		{68E263D8-C165-4228-81B1-B3B4E5542209}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{68E263D8-C165-4228-81B1-B3B4E5542209}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{68E263D8-C165-4228-81B1-B3B4E5542209}.Release|Any CPU.Build.0 = Release|Any CPU
+		{83E489B0-3628-4AE9-9D08-CDAEC086156A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{83E489B0-3628-4AE9-9D08-CDAEC086156A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{83E489B0-3628-4AE9-9D08-CDAEC086156A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{83E489B0-3628-4AE9-9D08-CDAEC086156A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
